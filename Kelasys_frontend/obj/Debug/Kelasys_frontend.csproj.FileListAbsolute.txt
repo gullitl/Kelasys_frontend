@@ -1,0 +1,10 @@
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\bin\Debug\Kelasys_frontend.exe.config
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\bin\Debug\Kelasys_frontend.exe
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\bin\Debug\Kelasys_frontend.pdb
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\obj\Debug\Kelasys_frontend.csprojAssemblyReference.cache
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\obj\Debug\Kelasys_frontend.Login.resources
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\obj\Debug\Kelasys_frontend.Properties.Resources.resources
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\obj\Debug\Kelasys_frontend.csproj.GenerateResource.cache
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\obj\Debug\Kelasys_frontend.csproj.CoreCompileInputs.cache
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\obj\Debug\Kelasys_frontend.exe
+C:\ESR\Kelasys\Kelasys_frontend\Kelasys_frontend\obj\Debug\Kelasys_frontend.pdb
