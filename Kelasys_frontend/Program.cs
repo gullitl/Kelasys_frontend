@@ -1,19 +1,18 @@
-﻿using System;
+﻿using Kelasys_frontend.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Kelasys_frontend {
-    static class Program {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+    public class Program {
         [STAThread]
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SplashScreen());
+            Application.Run(new MDI());
         }
+
     }
 }
